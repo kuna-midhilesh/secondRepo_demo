@@ -1,0 +1,3 @@
+THis is seconf text created from git hub server and cloned to local repo and added some text
+currently refers to master branch
+
